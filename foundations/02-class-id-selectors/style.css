@@ -1,0 +1,18 @@
+.odd {
+  background-color: rgb(235, 119, 185);
+  font-family: Verdana, "DejaVu Sans", sans-serif,
+}
+
+#dos {
+  color: #0000ff;
+  font-size: 36px;
+}
+
+.font-sizing {
+  font-size:24px
+}
+
+#cuatro {
+  background-color: hsl(120, 100%, 75%);
+  font-weight: bold;
+}
