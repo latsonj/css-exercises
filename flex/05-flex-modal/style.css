@@ -41,7 +41,7 @@ body {
 }
 
 .header {
-  font-weight: bold;
+  font-weight: bold; /* In solution, .close-button was nested inside header. Solution can justify-content: space-between instead of margin-x: auto */
   font-size: 20px;
   align-items: center;
 }
@@ -64,7 +64,7 @@ body {
   align-items: center;
   justify-content: center;
   flex-shrink: 0;
-  margin-left: auto;
+  margin-left: auto; /* See comment above */
 }
 
 button {
